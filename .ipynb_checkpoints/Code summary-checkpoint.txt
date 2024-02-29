@@ -1,0 +1,28 @@
+In this environment you can find the following folders:
+
+1. Data
+   I Contains all the relevant data in one folder
+2. Full Code
+    a. Full Code excl. PLS
+        I Contains the code excluding the PLS improvement
+    b. Full Code + PLS
+        I Contains the code including the PLS improvement
+3. Improvements
+    a. Clustering Improvement
+        I Contains the Clustering Data folder
+        II The Elbow & Silhouette tests used to determine the optimal number of clusters
+        III KMeans w. Clustering contains the full code for the Kmeans and clustering techniques.
+    b. PLS Improvement
+        I Contains the PLS code also used in the full code
+4. Table 1
+    I Contains the code for table 1 and the data
+5. Table 2
+    I Contains the code for table 2
+6. Table 3
+    I Contains the code for table 3 including all the relevant data
+7. Table 4
+    I Contains the code for table 4 including all the relevant data
+
+
+All the codes should run without downloading additional datasets except for the Clustering code. Which requires the user to specify the path.
+This is also explained within the Clustering code.
